@@ -1,0 +1,8 @@
+html, body
+{
+	color: white;
+	background-color: #252525;
+	font: 1em Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Oxygen,Ubuntu,Roboto,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+}
+table tr th, table tr td { padding: 0.25em; padding-right: 1.25em; }
+a { color: cyan; }
