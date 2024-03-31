@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<!-- Important pages -->
+	<url>
+		<loc>https://javadoc.thecsdev.com/</loc>
+		<changefreq>weekly</changefreq>
+		<priority>1</priority>
+	</url>
+	
+	<!-- Project pages -->
+	<url>
+		<loc>https://javadoc.thecsdev.com/mc-tcdcommons/</loc>
+		<changefreq>weekly</changefreq>
+		<priority>1</priority>
+	</url>
+	<url>
+		<loc>https://javadoc.thecsdev.com/mc-better-stats/</loc>
+		<changefreq>weekly</changefreq>
+		<priority>1</priority>
+	</url>
+</urlset>
